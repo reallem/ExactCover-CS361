@@ -33,8 +33,6 @@ We tested both algorithms on five benchmark files:
 ## 📦 Project Includes
 - Python source code for both algorithms
 - Benchmark files for testing
-- PowerPoint presentation (`.pptx`)
-- Project report (optional)
 
 ## 👨‍💻 How to Run
 ```bash
